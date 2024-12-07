@@ -16,8 +16,6 @@ This travel chatbot is a cutting-edge digital assistant designed to enhance the 
 4. Run the server
 ```python app.py```
 
-5. Run the frontend 
-```https://travel-buddy-ga201.netlify.app/```
 
 # Tech Stacks
 ## Backend
